@@ -340,7 +340,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다:
 ## 👥 Contributer
 
 - [김지현](https://github.com/)
-- [김동빈](https://github.com/)
+- [김동빈](https://github.com/goldeneastlight)
 - [김태진](https://github.com/)
 - [김연정](https://github.com/)
 - [임호빈](https://github.com/)
